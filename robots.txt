@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eoshahgioy.browser-extensions.com/sitemap.xml
